@@ -1,0 +1,9 @@
+# Ignore all
+/*
+
+# But not these files...
+!.gitignore
+!*.md
+!*.c
+!*.cpp
+!*.h
